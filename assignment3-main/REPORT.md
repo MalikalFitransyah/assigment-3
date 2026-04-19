@@ -1,6 +1,3 @@
-Berikut REPORT.md untuk assignment segitiga dengan format yang sama:
-
----
 
 ### Malikal Fitransyah Alwan | 5024251005
 ## Tujuan
